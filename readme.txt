@@ -1,6 +1,6 @@
 # Spotify Music Explorer
 
-This project is an assignment demonstrating the ability to gather data from the Spotify API and develop a frontend interface using Angular. The backend server, written in Node.js/Express, handles authentication via OAuth and communicates with the Spotify API. As a developer, you will make HTTP requests to the backend server to trigger API calls and create a webpage for browsing music on Spotify.
+This project demonstrates the ability to gather data from the Spotify API and develop a front-end interface using Angular. The backend server, written in Node.js/Express, handles authentication via OAuth and communicates with the Spotify API. As a developer, you will make HTTP requests to the backend server to trigger API calls and create a webpage for browsing music on Spotify.
 
 ## Assignment Objectives
 
@@ -34,8 +34,8 @@ Follow these steps to get the project up and running:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/spotify-music-explorer.git
-   cd spotify-music-explorer
+   git clone https://github.com/hthere21/Spotify-browser.git
+   cd Spotify-browser
 
 ## Install Dependencies:
 - npm install
